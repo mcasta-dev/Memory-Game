@@ -1,4 +1,5 @@
 Disclaimer
+
 This project was developed strictly for learning and practice purposes.
 
 It is a proof of concept created while studying React fundamentals, including component architecture, state management, Context API, API integration, and local data persistence.
